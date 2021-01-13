@@ -7,3 +7,5 @@ Sun: review and find a new topic
 ### 20201221 Mon
 Download Taobao dataset to analyse its users' behaviour.
 There are over 1 million observations in the file. It seems complicated.
+### 20210113
+update codes
